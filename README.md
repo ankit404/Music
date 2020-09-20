@@ -7,6 +7,6 @@ Click on Individual colors to play music
 Build on: Windows 10 machine <br>
 Sounds used: https://gumroad.com/l/zICwM <br>
 
-Thanks! to <a href=" https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
-">DEV Ed!</a> for his tutorial 
+Thanks! to <b>[DEV Ed!](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)</b> for his tutorial 
+
 
