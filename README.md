@@ -1,6 +1,6 @@
 # Music <br>
 <b>Tap Tap</b><br>
-A music playing website <br>
+A Music playing website <br>
 
 Click on Individual colors to play music
 
