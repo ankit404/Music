@@ -40,51 +40,51 @@
     }
     
     .pad1 {
-        background: #e9e507;
+        background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
     }
     
     .pad2 {
-        background: #09a4ec;
+        background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
     }
     
     .pad3 {
-        background: #a107e9;
+        background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
     }
     
     .pad4 {
-        background: #de0d64;
+        background: linear-gradient(90deg, #3F2B96 0%, #A8C0FF 100%);
     }
     
     .pad5 {
-        background: #09dceb;
+        background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
     }
     
     .pad6 {
-        background: #c8e757;
+        background: linear-gradient(90deg, #FDBB2D 0%, #3A1C71 100%);
     }
     
     .pad7 {
-        background: #1b0ce7;
+        background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
     }
     
     .pad8 {
-        background: #023942;
+        background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
     }
     
     .pad9 {
-        background: #cd0ce7;
+        background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
     }
     
     .pad10 {
-        background: #ee3c3c;
+        background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
     }
     
     .pad11 {
-        background: #ec8c0d;
+        background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
     }
     
     .pad12 {
-        background: #3fe70ce7;
+        background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
     }
     
     .visual>div {
