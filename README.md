@@ -9,4 +9,4 @@ Sounds used: https://gumroad.com/l/zICwM <br>
 
 Thanks! to <b>[DEV Ed!](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)</b> for his tutorial 
 
-[Try it!](https://ankit404.github.io/Music/)
+<i>[Try it!](https://ankit404.github.io/Music/)</i>
