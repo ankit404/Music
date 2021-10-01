@@ -1,6 +1,4 @@
 # Music <br>
-#<b>After adding the code, comment the code as well </b>
-<br>
 
 <b>TAP TAP</b><br>
 A Music Playing Website <br>
