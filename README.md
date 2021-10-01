@@ -1,5 +1,5 @@
 # Music <br>
-#<b>After adding the code, comment the code as wel </b>
+#<b>After adding the code, comment the code as well </b>
 <br>
 
 <b>TAP TAP</b><br>
