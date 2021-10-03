@@ -3,7 +3,7 @@
 <b>TAP TAP</b><br>
 A Music Playing Website <br>
 
-Click On Individual Colors to play music
+Click On Individual Colors to Play Music
 
 Build on: Windows 10 machine <br>
 Sounds used: https://gumroad.com/l/zICwM <br>
